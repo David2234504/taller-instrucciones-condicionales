@@ -1,0 +1,1 @@
+![Diagrama de flujo](ejercicio5.png "diagrama de flujo")
